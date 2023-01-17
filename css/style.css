@@ -1,0 +1,83 @@
+body{
+    background-color:aliceblue;
+    font-family: sans-serif;
+}
+#nav2{
+    background-image: url(../img/banner.png);
+    background-repeat: none;
+    background-size: cover;
+    background-position: top;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    color: cornflowerblue;
+    float: center;
+}
+h3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+a:link{
+    color: rgb(180, 180, 255);
+}
+a:hover{
+    color: crimson;
+}
+a:active{
+    color: rgb(180, 180,255)
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(21, 36, 79);
+}
+.Description{
+    padding: 50px;
+    width: 50%;
+    text-align: left;
+}
+.first {
+
+    width: 100%;
+}
+.center {
+    text-align: center;
+}
+
+.title{
+    color: cornflowerblue;
+   
+
+}
+.nosotros{
+    color: aliceblue;
+    font-family: sans-serif;
+    }
+.galeria{
+    color: aliceblue;
+    font-family: sans-serif;
+}
+#nav3{
+    display: block;
+    text-align: center;
+    width: 300px;
+   
+}
+
+.title2{
+    text-align: center;
+    color: cornflowerblue;
+    font-family: sans-serif;
+    
+}
+#logo{
+    display: block;
+    width: 100px;
+}
+.carousel-inner{
+    width: 100px;
+}
+.carousel-item{
+    width: 100px;
+}
