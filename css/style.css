@@ -34,12 +34,8 @@ footer{
     text-align: center;
     background-color: rgb(21, 36, 79);
 }
-.Description{
-    padding: 50px;
-    width: 50%;
-    text-align: left;
-}
-.first {
+
+.container-fluid first{
 
     width: 100%;
 }
@@ -72,7 +68,7 @@ p {
     font-family: sans-serif;
 }
 #nav3{
-    display: block;
+    
     text-align: center;
     width: 300px;
    
@@ -90,17 +86,21 @@ p {
     width: 100px;
 }
 .carousel-inner{
-    width: 100px;
+    width: 75px;
 }
 .carousel-item{
-    width: 100px;
+    width: 75px;
 }
 
 #carouselExampleIndicators {
-    width: 1000px;
-    height: 400px;
+    
     display: flex;
     align-items: center;
     justify-content: center;
    
+}
+
+.Description{
+   padding: 75px;
+
 }
