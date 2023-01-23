@@ -1,4 +1,6 @@
 
+//  funcion para fancybox y hora
+ 
  $(document).ready(function() {
     $('.fancybox').fancybox();
   });
